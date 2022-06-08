@@ -14,7 +14,7 @@ Creating tables.
 
 ![seeds](https://user-images.githubusercontent.com/79064464/172611865-c3b992e9-57d1-4dff-aebe-1bad21df10d7.png)
 
-Running th server.
+Running the server.
 
 ![server](https://user-images.githubusercontent.com/79064464/172611988-7b744ddc-f9f5-4bdd-bdc7-ba1fd477adfb.png)
 
