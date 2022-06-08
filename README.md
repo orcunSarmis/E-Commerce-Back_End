@@ -6,6 +6,15 @@
   
   This application is developed as a backend for an e-commerce site. The application uses Express.js for the server, MySQL for the database and Sequelize as the ORM to run MySQL models and queries. The user can view various products, their categories, tags and edit them. Insomnia was used to run various API routes. The database is accessed and updated by RESTful API routes and then joined through Sequelize queries.
 
+Creating the database.
+![xyz](https://user-images.githubusercontent.com/79064464/172611703-21a1a796-216b-4f20-8fe3-1b1b750ac33d.png)
+
+Creating tables.
+![seeds](https://user-images.githubusercontent.com/79064464/172611865-c3b992e9-57d1-4dff-aebe-1bad21df10d7.png)
+
+Running th server.
+![server](https://user-images.githubusercontent.com/79064464/172611988-7b744ddc-f9f5-4bdd-bdc7-ba1fd477adfb.png)
+
   ## Table of Content
 
   * [Usage](#usage)
