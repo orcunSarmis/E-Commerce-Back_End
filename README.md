@@ -17,8 +17,18 @@
 
   ## Usage
 
-  Clone my GitHub repo first and run the following command at the root of your project and you run various API routes in the Insomnia.
-
+  Clone my GitHub repo first and run the following command at the root of your project for creating the database and you run various API routes in the Insomnia.
+  ```
+  source schema.sql
+  ```
+  ```
+  npm run seed
+  ```
+  ```
+  npm start
+  ```
+  Use this Walkthrough video as a guide for using this application.
+  
   ## Contributing
 
   Ideas to improve this application are welcome, email me please.
@@ -27,14 +37,19 @@
 
   To install necessary dependencies, run the following command:
   ```
-  To install necessary dependencies, run the following command:
+  npm i mysql2
   ```
+  ```
+  npm i express
+  ```
+  ```
+  npm i sequelize
+  ```
+  
   ## Tests
 
-  To run tests, run the following command:
-  ```
   Tests will run in the Insomnia.
-  ```
+  
   ## License
 
    This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license. 
