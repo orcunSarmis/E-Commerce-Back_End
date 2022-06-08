@@ -17,7 +17,7 @@
 
   ## Usage
 
-  Clone my GitHub repo first and run the following command at the root of your project for creating the database and you run various API routes in the Insomnia.
+  Clone my [GitHub](https://github.com/orcunSarmis/E-Commerce-Back_End) repo first and run the following command at the root of your project for creating the database and you run various API routes in the Insomnia.
   ```
   source schema.sql
   ```
@@ -27,7 +27,7 @@
   ```
   npm start
   ```
-  Use this Walkthrough video as a guide for using this application.
+  Use this [Walkthrough ] video as a guide for using this application.
   
   ## Contributing
 
@@ -56,4 +56,4 @@
 
   ## Questions
 
-  If you have any questions about the repo, open an issue or contact me directly at yorcunsarmis@gmail.com. You can find more of my work at [orcunSarmis](https://github.com/orcunSarmis/).
+  If you have any questions about the repo, open an issue or contact me directly at yorcunsarmis@gmail.com. You can find more of my work at [GitHub](https://github.com/orcunSarmis/).
