@@ -36,13 +36,6 @@ router.post('/', async (req, res) => {
   .then((tag) => res.status(200).json(tag))
   .catch((err) => res.status(400).json(err));
 });
-//   try {
-//     const tagData = await Tag.create({tag_name: req.body.tag_name});
-//     res.status(200).json(tagData => res.json(tagData));
-//   } catch (err) {
-//     res.status(400).json(err);
-//   }
-// });
 
 router.put('/:id', async (req, res) => {
   // update a tag's name by its `id` value
