@@ -39,7 +39,7 @@ Running the server.
   ```
   npm start
   ```
-  Use this [Walkthrough ] video as a guide for using this application.
+  Use this [Walkthrough ](https://drive.google.com/file/d/10r0nt9gcuFydYCSKORxlrnXNWiktVnCQ/view?usp=sharing) video as a guide for using this application.
   
   ## Contributing
 
